@@ -9,6 +9,7 @@ public class Lab {
     }
 
     public Lab(String labName) {
+
     }
 
     public String getName() {

@@ -20,11 +20,11 @@ public class TicTacToe {
     }
 
     public Boolean isRowHomogenous(Integer rowIndex) {
-        return null;
+        return true;
     }
 
     public Boolean isColumnHomogeneous(Integer columnIndex) {
-        return null;
+        return true;
     }
 
     public String getWinner() {
